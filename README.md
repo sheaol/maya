@@ -1,2 +1,2 @@
 # maya
-maya the great delusion 
+the great delusion 
